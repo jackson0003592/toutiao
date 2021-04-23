@@ -5,9 +5,6 @@
 # print 3
 # print 4
 
-# print b 5
-# f_d
-# f_c
 
 class DefaultConfig(object):
     """
